@@ -1,0 +1,9 @@
+/* 文本样式 */
+text{
+  font-size: 80rpx;
+  color: #3C5F81;
+}
+/* 图标样式 */
+image{
+  width: 220rpx;
+}
